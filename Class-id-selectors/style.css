@@ -1,0 +1,18 @@
+.odd {
+    background-color: coral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 35px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 36px;
+  }
+
+#four {
+    background-color: green;
+    color: black;
+}
