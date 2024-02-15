@@ -1,0 +1,9 @@
+/* styles.css */
+
+h1 {
+    color: white;
+    background-color: red;
+    font-size: 50;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
